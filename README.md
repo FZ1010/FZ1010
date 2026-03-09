@@ -64,6 +64,8 @@ stack: TypeScript, Next.js, AWS, Node.js
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazon-dynamodb&logoColor=4053D6)
 
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-0d1117?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
