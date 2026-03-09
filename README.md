@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/FZ1010">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=crafting+code+that+works+like+magic;and+looks+like+art+%E2%9C%A8;full-stack+%7C+aws+%7C+devops+%7C+open+source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=full-stack+%7C+aws+%7C+devops+%7C+open+source" alt="Typing SVG" />
 </a>
 
 <br/>
