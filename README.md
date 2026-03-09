@@ -39,7 +39,7 @@ stack: TypeScript, Next.js, AWS, Node.js
 | Company | Role | Stack |
 |---------|------|-------|
 | **Openscreen Inc.** | Full-Stack Developer | Next.js, AWS CDK, Lambda, Jenkins CI/CD, DynamoDB, Vitest |
-| **Just Sales Jobs** | Full-Stack Developer | Next.js, React, AWS S3/SES, Neon PostgreSQL, Drizzle ORM |
+| **Lambton College** | Full-Stack Developer | Next.js, React, AWS S3/SES, Neon PostgreSQL, Drizzle ORM |
 | **ShipShop** | Full-Stack Developer | PHP, Laravel, Livewire, Docker, Kubernetes (GKE), MySQL |
 
 ---
