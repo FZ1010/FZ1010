@@ -99,6 +99,8 @@ stack: TypeScript, Next.js, AWS, Node.js
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4"/>
+  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D"/>
 </p>
 <p align="center">Open-source minute-by-minute timeline tracker. Community-driven, 26+ stars and growing.</p>
 
