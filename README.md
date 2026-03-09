@@ -20,7 +20,7 @@
 
 ### `> whoami`
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=radical" width="320" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=github_dark" width="320" />
 
 ```yaml
 name: Farhan Zare
@@ -152,9 +152,9 @@ stack: TypeScript, Next.js, AWS, Node.js
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FZ1010&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FZ1010&theme=github_dark" width="100%" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=FZ1010&theme=dark&hide_border=true&background=0D1117&stroke=b91c1c&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180" />
+  <img src="https://streak-stats.demolab.com?user=FZ1010&hide_border=true&background=0D1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="180" />
 </div>
 
 ---
