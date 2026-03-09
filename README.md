@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Farhan%20Zare&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=full-stack%20engineer%20%E2%80%A2%20toronto&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:b91c1c&height=220&section=header&text=Farhan%20Zare&fontSize=60&fontColor=dc2626&fontAlignY=35&desc=full-stack%20engineer%20%E2%80%A2%20toronto&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://github.com/FZ1010">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=full-stack+%7C+aws+%7C+devops+%7C+open+source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=600&lines=full-stack+%7C+aws+%7C+devops+%7C+open+source" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ### `> whoami`
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=github_dark" width="320" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=radical" width="320" />
 
 ```yaml
 name: Farhan Zare
@@ -85,8 +85,8 @@ stack: TypeScript, Next.js, AWS, Node.js
 <h3 align="center">OperationEpicFury</h3>
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/FZ1010/OperationEpicFury?style=flat-square&color=1f6feb&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/FZ1010/OperationEpicFury?style=flat-square&color=1f6feb&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/FZ1010/OperationEpicFury?style=flat-square&color=b91c1c&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/FZ1010/OperationEpicFury?style=flat-square&color=b91c1c&labelColor=0d1117)
 
 </div>
 <p align="center">
@@ -155,19 +155,19 @@ stack: TypeScript, Next.js, AWS, Node.js
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FZ1010&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FZ1010&theme=radical" width="100%" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=FZ1010&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180" />
+  <img src="https://streak-stats.demolab.com?user=FZ1010&theme=dark&hide_border=true&background=0D1117&stroke=b91c1c&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180" />
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=FZ1010&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=FZ1010&style=for-the-badge&color=b91c1c&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:b91c1c&height=120&section=footer" width="100%" />
 
 </div>
