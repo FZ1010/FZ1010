@@ -18,9 +18,9 @@
 
 ---
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=github_dark" width="320" />
-
 ### `> whoami`
+
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=github_dark" width="320" />
 
 ```yaml
 name: Farhan Zare
