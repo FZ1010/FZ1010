@@ -28,11 +28,6 @@ role: Full-Stack Engineer
 location: Toronto, Canada
 currently: building serverless infra @ Openscreen Inc.
 stack: TypeScript, Next.js, AWS, Node.js
-interests:
-  - architecting cloud-native apps
-  - security research & hardware hacking
-  - anti-censorship tooling
-  - open source everything
 ```
 
 <br clear="right"/>
