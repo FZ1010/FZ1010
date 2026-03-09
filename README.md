@@ -94,7 +94,13 @@ stack: TypeScript, Next.js, AWS, Node.js
 <p align="center">
   <a href="https://github.com/FZ1010/OperationEpicFury"><img src="https://img.shields.io/badge/VIEW_REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://opepicfury.info"><img src="https://img.shields.io/badge/LIVE_SITE-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-<p align="center"><strong>TypeScript</strong> — Open-source minute-by-minute timeline tracker. Community-driven, 26+ stars and growing.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+</p>
+<p align="center">Open-source minute-by-minute timeline tracker. Community-driven, 26+ stars and growing.</p>
 
 </td>
 <td width="50%">
@@ -105,7 +111,11 @@ stack: TypeScript, Next.js, AWS, Node.js
     <img src="https://img.shields.io/badge/VIEW_REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<p align="center"><strong>PowerShell / Bash</strong> — Auto-finds working DNS resolvers and bypasses internet censorship. Built for freedom.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE"/>
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25"/>
+</p>
+<p align="center">Auto-finds working DNS resolvers and bypasses internet censorship. Built for freedom.</p>
 
 </td>
 </tr>
@@ -138,6 +148,7 @@ stack: TypeScript, Next.js, AWS, Node.js
   <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D"/>
+  <img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4"/>
   <img src="https://img.shields.io/badge/Spotify-0d1117?style=flat-square&logo=spotify&logoColor=1DB954"/>
 </p>
 <p align="center">Transfer music from Telegram to Spotify. Redis-cached metadata for instant rendering, dynamic song previews, and seamless playlist management.</p>
