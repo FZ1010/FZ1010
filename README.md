@@ -20,7 +20,7 @@
 
 ### `> whoami`
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=github_dark" width="320" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FZ1010&theme=2077" width="320" />
 
 ```yaml
 name: Farhan Zare
@@ -63,8 +63,8 @@ stack: TypeScript, Next.js, AWS, Node.js
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=aws&logoColor=FF9900)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-0d1117?style=for-the-badge&logo=aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Lambda](https://img.shields.io/badge/Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
@@ -152,7 +152,7 @@ stack: TypeScript, Next.js, AWS, Node.js
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FZ1010&theme=github_dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FZ1010&bg_color=0d1117&color=ffffff&line=dc2626&point=ffffff&area_color=dc2626&area=true&hide_border=true" width="100%" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=FZ1010&hide_border=true&background=0D1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="180" />
 </div>
