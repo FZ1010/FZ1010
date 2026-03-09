@@ -90,12 +90,7 @@ stack: TypeScript, Next.js, AWS, Node.js
 
 </div>
 <p align="center">
-  <a href="https://github.com/FZ1010/OperationEpicFury">
-    <img src="https://img.shields.io/badge/VIEW_REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://opepicfury.info">
-    <img src="https://img.shields.io/badge/LIVE_SITE-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://github.com/FZ1010/OperationEpicFury"><img src="https://img.shields.io/badge/VIEW_REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<a href="https://opepicfury.info"><img src="https://img.shields.io/badge/LIVE_SITE-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>TypeScript</strong> — Open-source minute-by-minute timeline tracker. Community-driven, 26+ stars and growing.</p>
 
