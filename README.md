@@ -160,8 +160,9 @@ interests:
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FZ1010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FZ1010&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FZ1010&theme=github_dark" width="100%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=FZ1010&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180" />
 </div>
 
 ---
