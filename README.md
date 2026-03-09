@@ -84,7 +84,7 @@ stack: TypeScript, Next.js, AWS, Node.js
 <tr>
 <td width="50%">
 
-<h3 align="center"><a href="https://opepicfury.info"><span style="color: #dc2626;">OperationEpicFury</span></a></h3>
+<h3 align="center"><a href="https://opepicfury.info"><img src="https://img.shields.io/badge/OperationEpicFury-dc2626?style=for-the-badge" alt="OperationEpicFury"/></a></h3>
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/FZ1010/OperationEpicFury?style=flat-square&color=b91c1c&labelColor=0d1117)
@@ -99,7 +99,7 @@ stack: TypeScript, Next.js, AWS, Node.js
 </td>
 <td width="50%">
 
-<h3 align="center"><a href="https://github.com/FZ1010/slipstream-auto">slipstream-auto</a></h3>
+<h3 align="center"><a href="https://github.com/FZ1010/slipstream-auto"><img src="https://img.shields.io/badge/slipstream--auto-06b6d4?style=for-the-badge" alt="slipstream-auto"/></a></h3>
 <p align="center">
   <a href="https://github.com/FZ1010/slipstream-auto">
     <img src="https://img.shields.io/badge/VIEW_REPO-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -121,7 +121,7 @@ stack: TypeScript, Next.js, AWS, Node.js
 <tr>
 <td width="50%">
 
-<h3 align="center"><a href="https://smsito.fz1010.me" style="color: #3b82f6; text-decoration: none;">SMSito</a></h3>
+<h3 align="center"><a href="https://smsito.fz1010.me"><img src="https://img.shields.io/badge/SMSito-3b82f6?style=for-the-badge" alt="SMSito"/></a></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
@@ -133,7 +133,7 @@ stack: TypeScript, Next.js, AWS, Node.js
 </td>
 <td width="50%">
 
-<h3 align="center"><a href="https://pavelsbeats.fz1010.me/" style="text-decoration: none;"><span style="color: #3b82f6;">Pavel</span> <span style="color: #22c55e;">Beats</span></a></h3>
+<h3 align="center"><a href="https://pavelsbeats.fz1010.me/"><img src="https://img.shields.io/badge/Pavel-Beats-22c55e?style=for-the-badge&labelColor=3b82f6" alt="Pavel Beats"/></a></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
