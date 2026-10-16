@@ -14,8 +14,6 @@
 
 ---
 
-### GitHub Stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FZ1010&hide_border=true&background=0D1117&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="180" />
 </div>
