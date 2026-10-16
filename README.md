@@ -12,8 +12,6 @@
 
 <!-- SOCIAL BADGES -->
 [![GitHub](https://img.shields.io/badge/FZ1010-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FZ1010)
-[![Location](https://img.shields.io/badge/Toronto,_CA-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)](https://github.com/FZ1010)
-
 </div>
 
 ---
